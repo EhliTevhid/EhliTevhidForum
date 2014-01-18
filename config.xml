@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+﻿<?xml version="1.0" encoding="UTF-8"?> 
 <widget xmlns="http://www.w3.org/ns/widgets" 
                 xmlns:gap="http://phonegap.com/ns/1.0" 
                 id="com.ehlitevhid.forum" 
@@ -14,6 +14,7 @@
     <author href="http://www.ehlitevhid.com" email="forum@ehlitevhid.com">
         Muvahhid Abdullah
     </author>
+ <icon src="icon.png" />
     <gap:platforms>
         <gap:platform name="android" minVersion="2.1"/>
         <gap:platform name="webos"/>
